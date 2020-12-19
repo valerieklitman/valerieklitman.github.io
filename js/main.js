@@ -1409,10 +1409,6 @@ $(document).ready(function () {
         $.magnificPopup.close();
     });
 
-
-
-
-
     /*==============================================================*/
     //Modal popup - zoom animation - START CODE
     /*==============================================================*/
@@ -1491,7 +1487,7 @@ $(document).ready(function () {
     });
 
     /*==============================================================
-     mega menu width
+     mega menu width 
      ===============================================================*/
     $("ul.mega-menu-full").each(function (idx, elm) {
         var megaMenuWidth = 0;
@@ -1870,7 +1866,7 @@ $(document).ready(function () {
     });
 
     /*==============================================================*/
-    //    hamburger menu
+    //    hamburger menu 
     /*==============================================================*/
     $(document).on('click', '.btn-hamburger', function () {
         $('.hamburger-menu').toggleClass('show-menu');
@@ -2002,7 +1998,7 @@ $(document).ready(function () {
     }
 
     /*==============================================================*/
-    //revolution Start
+    //revolution Start 
     /*==============================================================*/
     /* ================================
      home-creative-studio
@@ -2341,7 +2337,7 @@ $(document).ready(function () {
     }
 
     /*==============================================================*/
-    //magnificPopup Start
+    //magnificPopup Start 
     /*==============================================================*/
     $('.header-search-form').magnificPopup({
         mainClass: 'mfp-fade',
